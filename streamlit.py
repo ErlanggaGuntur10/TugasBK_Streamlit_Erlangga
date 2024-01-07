@@ -103,7 +103,7 @@ st.set_page_config(
   page_icon = ":heart:"
 )
 
-st.title("Hungarian Heart Disease")
+st.title("Erlangga Hungarian Heart Disease")
 st.write(f"**_Model's Accuracy_** :  :violet[**{accuracy}**]%")
 st.write("")
 
